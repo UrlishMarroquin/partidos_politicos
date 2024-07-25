@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823358129569",
+    "project_id": "fir-app-926c5",
+    "storage_bucket": "fir-app-926c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823358129569:android:004c42e9279d9574d3f7e0",
+        "android_client_info": {
+          "package_name": "pe.marroquin.partidos_politicos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj4sR1c_sURjnNt6rlGeJ8zRuXqsWJ798"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

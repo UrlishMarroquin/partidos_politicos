@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "823358129569",
+    "project_id": "fir-app-926c5",
+    "storage_bucket": "fir-app-926c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823358129569:android:004c42e9279d9574d3f7e0",
+        "android_client_info": {
+          "package_name": "pe.marroquin.partidos_politicos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823358129569-208ajsqbltoivk7h5lasg8hkreqa3q83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.marroquin.partidos_politicos",
+            "certificate_hash": "77db9ac032fcaa074918ef7a4ecd5651e168a32f"
+          }
+        },
+        {
+          "client_id": "823358129569-vq6j4g0t9b0vgucc6khtv34o9js0t3kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj4sR1c_sURjnNt6rlGeJ8zRuXqsWJ798"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823358129569-vq6j4g0t9b0vgucc6khtv34o9js0t3kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
